@@ -8,7 +8,7 @@
     <meta name="description" content="A REST APIs website that provides a wide variety of features for developers." />
     <meta name="robots" content="archive, follow, imageindex, index, odp, snippet, translate" />
     <meta name="author" content="LoL Human" />
-    <title>LoL Human - REST APIs</title>
+    
     <meta property="og:site_name" name="og:site_name" content="LoL Human APIs" />
     <meta property="og:title" name="og:title" content="LoL Human - REST APIs" />
     <meta property="og:url" name="og:url" content="https://api.lolhuman.xyz/" />
