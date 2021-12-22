@@ -57,7 +57,8 @@
             </a>
         </p>
     </div>
-</body>
 <script src="https://api.lolhuman.xyz/static/js/script.js"></script>
+</body>
+
  
 </html>
